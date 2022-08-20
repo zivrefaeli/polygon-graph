@@ -1,0 +1,23 @@
+form.flex {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+input[type='text'] {
+    padding: .5rem;
+}
+
+div.categories,
+div.shapes-list,
+div.create-shape {
+    background-color: rgb(240, 240, 240);
+    padding: 1rem;
+    border-radius: .5rem;
+    overflow-x: auto;
+}
+
+div.categories ul {
+    margin: 1rem 0;
+    padding-left: 2.5rem;
+}

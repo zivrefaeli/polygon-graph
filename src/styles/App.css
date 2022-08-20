@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 1rem;
+}
+
+button {
+    width: fit-content;
+    cursor: pointer;
+    padding: .4rem .6rem;
+}
+
+div#root {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.alert {
+    color: red;
+}
+
+.monospace {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1.title {
+    text-align: center;
+    font-family: 'Calibri Light';
+}
+
+label.flex {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: .5rem;
+}

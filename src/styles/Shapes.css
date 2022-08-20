@@ -1,0 +1,18 @@
+ul.init {
+    margin: .5rem 0;
+    padding-left: 2.5rem;
+}
+
+div.create-shape {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+input[type='color'] {
+    padding: .1rem;
+}
+
+h3.monospace.title {
+    color: darkblue;
+}

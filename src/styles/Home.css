@@ -1,0 +1,10 @@
+p.explain {
+    display: flex;
+    flex-direction: column;
+    gap: .3rem;
+}
+
+p.explain>img {
+    width: 20rem;
+    align-self: center;
+}

@@ -1,0 +1,40 @@
+canvas.graph {
+    border: 1px solid black;
+    width: 30%;
+    align-self: center;
+}
+
+div.flex-row {
+    display: flex;
+    flex-direction: row;
+    gap: 1.5rem;
+    margin-top: .5rem;
+    overflow-x: auto;
+}
+
+div.shape {
+    background-color: rgb(240, 240, 240);
+    padding: 1rem;
+}
+
+div.shape ul {
+    padding-left: 2rem;
+    margin: .5rem 0;
+}
+
+button.download {
+    align-self: center;
+    width: 50%;
+}
+
+@media (max-width: 1000px) {
+    canvas.graph {
+        width: 60%;
+    }
+}
+
+@media (max-width: 600px) {
+    canvas.graph {
+        width: 100%;
+    }
+}
