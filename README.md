@@ -2,7 +2,7 @@
 
 Display your data in 2D shapes
 <br>
-**Add URL**
+https://zivrefaeli.github.io/polygon-graph/
 
 ## Demo
 
@@ -10,4 +10,4 @@ Display your data in 2D shapes
 
 ## Licence
 
-**Add Licence**"# polygon-graph" 
+TEXT
