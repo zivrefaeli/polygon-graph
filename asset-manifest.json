@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/polygon-graph/static/css/main.3918a744.css",
+    "main.js": "/polygon-graph/static/js/main.3142d8c6.js",
+    "static/media/demo.png": "/polygon-graph/static/media/demo.765e81be6b2c9647d50d.png",
+    "index.html": "/polygon-graph/index.html",
+    "main.3918a744.css.map": "/polygon-graph/static/css/main.3918a744.css.map",
+    "main.3142d8c6.js.map": "/polygon-graph/static/js/main.3142d8c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3918a744.css",
+    "static/js/main.3142d8c6.js"
+  ]
+}
