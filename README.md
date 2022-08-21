@@ -10,4 +10,4 @@ https://zivrefaeli.github.io/polygon-graph/
 
 ## Licence
 
-polygon-graph was created by Ziv Refaeli and released under the [MIT license](https://github.com/zivrefaeli/polygon-graph/blob/master/LICENCE).
+polygon-graph was created by Ziv Refaeli and released under the [MIT license](https://github.com/zivrefaeli/polygon-graph/blob/main/LICENCE).
